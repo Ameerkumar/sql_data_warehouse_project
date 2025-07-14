@@ -33,5 +33,5 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ---
 
-Hi there! I'm *Ameer Kumar Dogra*. I'm an final year Btech student at *Birla Institute of Technology, Mesra.*
+Hi there! I'm *Ameer Kumar Dogra*. I'm a final year Btech student at *Birla Institute of Technology, Mesra.*
 
